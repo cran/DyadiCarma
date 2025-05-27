@@ -1,4 +1,4 @@
-8525dce6251560590add1c0a018c11ec *DESCRIPTION
+20cd85eed13b959a14ef24f533a66401 *DESCRIPTION
 2b9a3157f0f7138f884b6016fe2b312b *NAMESPACE
 77acd05028dc2c1c7a57c3927b38491c *R/Examples/ExArithmetic.R
 8e6c9f71d9f75a787be69ba6d31c7f69 *R/Examples/ExAsDyadic.R
@@ -33,6 +33,6 @@ df4de6b9f7cd3c55b2e104dea91bedf6 *src/RcppExports.cpp
 790fc27f014c2c77285cdde607f3c0a8 *src/fun_aux.h
 b6ee496e934715bb8a5ad8f21ebbb0b0 *src/fun_rcpp_as_dyadic.cpp
 fa7c74dce3a8c4f7f410b07441ff1fdd *src/fun_rcpp_as_matrix.cpp
-8495dd2c437effe73dcc241cf7370726 *src/fun_rcpp_bandalg_core.cpp
+158b2fd59122291bef0a4666d12b6ce4 *src/fun_rcpp_bandalg_core.cpp
 54a21b123ea3e933faecf753b15dc0c9 *src/fun_rcpp_constr.cpp
 076693c5c6ce400b09cb30018b4daceb *src/fun_rcpp_dyadFac_core.cpp
